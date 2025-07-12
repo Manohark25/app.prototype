@@ -1,2 +1,1 @@
-# app.prototype
-# using firebase studio 
+app using Firebase Studio 
